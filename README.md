@@ -2,6 +2,7 @@
 
 Welcome to my GitHub profile! I'm a **Software Engineering student** with a passion for **open source projects**, **machine learning**, **Web development**, and building innovative projects. I'm always excited to explore new technologies and contribute to meaningful projects.
 
+
 ## 🚀 Projects
 
 Here are some of the cool things I've been working on:
@@ -36,6 +37,8 @@ I'm constantly learning new things! Some of the areas I'm diving deeper into inc
 - Enhancing my knowledge of **web development frameworks**
 - Exploring **engineering ethics** and the professional responsibilities of engineers
 - Enhancing my knowledge of **mathematics for engineers**, including topics like discrete mathematics, and differential equations
+- Enhancing my knowledge of data structures and algorithms by solving **leetcode problems**
+ ![LeetCode Stats](https://leetcard.jacoblin.cool/jazzzy?theme=dark&font=Noto%20Sans%20Buhid&border_radius=10&show_rank=false)
 
 ## 🎯 Goals
 - Contribute to **open-source projects** and collaborate with other developers.
