@@ -1,9 +1,10 @@
 # Hi, I'm Djazy! 👋
 
-Welcome to my GitHub profile! I'm a **Software Engineering student** with a passion for **open source projects**, **machine learning**, **Web development**, and building innovative projects. I'm always excited to explore new technologies and contribute to meaningful projects.
+Welcome to my GitHub profile! I'm a **Software Engineering student** with a passion for **open source projects**, **machine learning**, **Web development**, and building innovative projects. I'm always excited to explore new technologies and contribute to meaningful projects. 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=djazy-faradj&hide=gdscript,gap&hide_progress=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
-## 🚀 Projects
+## 🚀 Projects 
 
 Here are some of the cool things I've been working on:
 
