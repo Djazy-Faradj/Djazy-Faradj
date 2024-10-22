@@ -29,7 +29,7 @@ Built a **28x28 image classification model** using **Keras** and **TensorFlow**.
 - **Tech stack**: Python, Keras, TensorFlow
 
 ### 🧑‍💼 CustomMessages Minecraft Plugin
-One of my earliest projects! I developed this plugin at the age of 12, and it's still out there with a solid number of downloads. Revisiting this plugin always gives me a sense of pride.
+One of my earliest projects! I developed this [Minecraft server plugin](https://www.curseforge.com/minecraft/bukkit-plugins/privatemessages) at the age of 12, and it's still out there with a solid number of downloads. Revisiting this plugin always gives me a sense of pride.
 - **Tech stack**: Java
 
 ## 🌱 Currently Learning
