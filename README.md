@@ -52,4 +52,4 @@ I'm always open to networking, collaborating, or just chatting about tech! Feel 
 - **Instagram**: https://www.instagram.com/djazy.frdj
 - **LinkedIn**: https://www.linkedin.com/in/djazy-faradj/
 
-Thanks for stopping by! 😄
+Thanks for stopping by!
