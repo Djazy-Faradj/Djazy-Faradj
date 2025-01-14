@@ -29,16 +29,17 @@ Built a **28x28 image classification model** using **Keras** and **TensorFlow**.
 - **Tech stack**: Python, Keras, TensorFlow
 
 ### 🧑‍💼 CustomMessages Minecraft Plugin
-One of my earliest projects! I developed this [Minecraft server plugin](https://www.curseforge.com/minecraft/bukkit-plugins/privatemessages) at the age of 12, and it's still out there with a solid number of downloads. Revisiting this plugin always gives me a sense of pride.
+One of my earliest projects! I developed this [Minecraft server plugin](https://www.curseforge.com/minecraft/bukkit-plugins/privatemessages) at the age of 12, and it's still out there with +1,000 downloads. Revisiting this plugin always gives me a sense of pride.
 - **Tech stack**: Java
 
 ## 🌱 Currently Learning
 I'm constantly learning new things! Some of the areas I'm diving deeper into include:
-- Advanced concepts in **machine learning**
-- Enhancing my knowledge of **web development frameworks**
-- Exploring **engineering ethics** and the professional responsibilities of engineers
-- Enhancing my knowledge of **mathematics for engineers**, including topics like discrete mathematics, and differential equations
-- Enhancing my knowledge of data structures and algorithms through **leetcode problems**
+- Advanced concepts in **object-oriented programming**
+- Enhancing my knowledge of **applied advanced calculus**
+- Exploring **system hardware fundamentals**
+- Building skills in **web programming**
+- Understanding the principles of **materials science**
+  
  ![LeetCode Stats](https://leetcard.jacoblin.cool/jazzzy?theme=dark&font=Noto%20Sans%20Buhid&border_radius=10&show_rank=false&animation=true)
 
 ## 🎯 Goals
