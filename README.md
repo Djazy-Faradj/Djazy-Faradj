@@ -4,33 +4,63 @@ Welcome to my GitHub profile! I'm a **Software Engineering student** with a pass
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=djazy-faradj&hide=gdscript,gap&hide_progress=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
-## 🚀 Projects 
+## 🚀 Projects  
+Here are some of the cool things I've been working on:  
 
-Here are some of the cool things I've been working on:
+### 🌍 Career Map - Global Exploration Platform for Students  
+A personalized global exploration platform designed to help students and young professionals find the best destinations based on economic, lifestyle, and affordability metrics.  
 
-### 🧑‍💻 HR Management App
-A **mini project** focused on building a **Human Resource Management** app. This app allows HR professionals to manage employee and department data, job roles, and other essential HR tasks in a simple interface.
-- **Tech stack**: C++
-- Features:
-  - Employee profile management
-  - Role assignments and payroll tracking
-  - Basic reporting and data export
+**Tech stack:** Flutter, Firebase, REST APIs  
+#### Features:  
+- 📊 Data-driven recommendations based on salary-to-GDP ratio, purchasing power index, and unemployment rate.  
+- 🎨 Interactive visualization of ranked destinations with a color-coded scoring system.  
+- 🌎 Practical insights on job opportunities, cost of living, and lifestyle factors.  
+- ⚡ Optimized API usage with caching and batching (in progress).  
 
-### 🔍 QR Code Reader
-A challenging personal project where I developed a QR code reader from scratch without using existing QR reading libraries. The project processes the QR code image using **Pillow** and decodes the data based on its format and error correction levels.
-- **Tech stack**: Python, Pillow
-  
-### 🎮 Minigame Mania
-A fast-paced mobile game inspired by Nintendo’s WarioWare franchise, built using the **Godot Game Engine**. It features a series of mini-games, each designed to be quick and fun. Currently playable but still adding the final touches.
-- **Tech stack**: Godot, GDScript
+---
 
-### 🧠 Image Classification with Python
-Built a **28x28 image classification model** using **Keras** and **TensorFlow**. This project helped me dive deeper into machine learning and image recognition.
-- **Tech stack**: Python, Keras, TensorFlow
+### 🏗️ Minecraft Clone - LWJGL  
+A 3D game inspired by Minecraft, built using LWJGL and OpenGL. This project focuses on rendering, camera movement, input handling, and block management.  
 
-### 🧑‍💼 CustomMessages Minecraft Plugin
-One of my earliest projects! I developed this [Minecraft server plugin](https://www.curseforge.com/minecraft/bukkit-plugins/privatemessages) at the age of 12, and it's still out there with +1,000 downloads. Revisiting this plugin always gives me a sense of pride.
-- **Tech stack**: Java
+**Tech stack:** Java, LWJGL, OpenGL  
+#### Features:  
+- 🖼️ Real-time rendering with depth testing and texture mapping.  
+- 🎮 First-person camera with smooth movement and mouse-based look mechanics.  
+- 🧱 Block system implementation, with plans for occlusion culling and chunk-based optimization.  
+- 🔥 Future improvements: lighting, world generation, and physics.  
+
+---
+
+### 🎮 Minigame Mania  
+A fast-paced mobile game inspired by Nintendo’s WarioWare franchise, built using the Godot Game Engine. It features a series of mini-games, each designed to be quick and fun. Currently playable but still adding the final touches.  
+
+**Tech stack:** Godot, GDScript  
+
+---
+
+### 🔍 QR Code Reader  
+A challenging personal project where I developed a QR code reader from scratch without using existing QR reading libraries. The project processes the QR code image using Pillow and decodes the data based on its format and error correction levels.  
+
+**Tech stack:** Python, Pillow  
+
+---
+
+### 🧑‍💻 HR Management App  
+A mini project focused on building a Human Resource Management app. This app allows HR professionals to manage employee and department data, job roles, and other essential HR tasks in a simple interface.  
+
+**Tech stack:** C++  
+#### Features:  
+- 👤 Employee profile management  
+- 🏢 Role assignments and payroll tracking  
+- 📊 Basic reporting and data export  
+
+---
+
+### 🧠 Image Classification with Python  
+Built a 28x28 image classification model using Keras and TensorFlow. This project helped me dive deeper into machine learning and image recognition.  
+
+**Tech stack:** Python, Keras, TensorFlow  
+
 
 ## 🌱 Currently Learning
 I'm constantly learning new things! Some of the areas I'm diving deeper into include:
