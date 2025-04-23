@@ -30,6 +30,5 @@ DM on [LinkedIn](https://www.linkedin.com/in/djazy-faradj/) or raise an issue!
 ---
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=djazy-faradj" alt="GitHub streak"/>
   <img src="https://leetcard.jacoblin.cool/jazzzy?theme=dark&font=Noto%20Sans%20Buhid&border_radius=10&show_rank=false&animation=true" alt="Leetcode stats"/>
 </p>
