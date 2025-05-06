@@ -10,10 +10,10 @@
 ### 🔭 Current Projects
 | Project | Stack | Snapshot |
 |---------|-------|----------|
+| **Chip-8 Emulator** | C++17 | Developed a cycle-accurate Chip-8 interpreter from the ground up |
 | **Career‑Map** | Flutter · Firebase | Global job‑mobility explorer with economic & lifestyle metrics |
 | **Minecraft‑Clone** | Java · LWJGL | Custom renderer, chunk system & upcoming lighting engine |
 | **Minigame Mania** | Godot · GDScript | 30‑second micro‑challenges inspired by WarioWare |
-| **QR‑Scratch** | Python · Pillow | Decodes QR images byte‑by‑byte—no external libs |
 
 ### 📚 Learning Now
 `Advanced OOP` · `Advanced Calculus` · `SQL & market data APIs`
