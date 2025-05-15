@@ -21,7 +21,6 @@
 ### 🌱 Goals 2025
 - 🚀 Ship Minigame Mania to web & Android
 - ✨ Grab first place at a hackathon
-- 🎮 Land a fall internship in FAANG or fintech data engineering
 
 ### 🤝 Let’s Collaborate
 Open to pair programming, project feedback, or hackathons.  
