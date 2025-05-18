@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, I'm Djazy!</h1>
+<h1 align="center">Hi 👋, I'm Djazy!</h1>
 
 <p align="center">
   <em>Builder of playful games, practical tools and AI prototypes.<br/>
-  I turn coffee ☕ and Catalan football passion ⚽ into code.</em>
+  I turn coffee ☕ and Catalan football passion ⚽ into code.</em>
 </p>
 
 ---
@@ -16,10 +16,12 @@
 | **Minigame Mania** | Godot · GDScript | 30‑second micro‑challenges inspired by WarioWare |
 
 ### 📚 Learning Now
-`Advanced OOP` · `Advanced Calculus` · `SQL & market data APIs`
+`Data Structures & Algorithms` · `Principles of Programming Languages`  
+`Theoretical Computer Science` · `Probability & Stats for Engineers`  
+`Sustainable Development & Environmental Stewardship`
 
 ### 🌱 Goals 2025
-- 🚀 Ship Minigame Mania to web & Android
+- 🧪 Build a math-heavy side project involving probability or graph theory
 - ✨ Grab first place at a hackathon
 
 ### 🤝 Let’s Collaborate
