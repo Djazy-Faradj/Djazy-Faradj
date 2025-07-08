@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Djazy!</h1>
 
 <p align="center">
-  <em>Builder of playful games, practical tools and AI prototypes.<br/>
+  <em>Builder of social sports apps, practical developer tools, and applied AI projects.<br/>
   I turn coffee ☕ and Catalan football passion ⚽ into code.</em>
 </p>
 
@@ -21,7 +21,9 @@
 `Sustainable Development & Environmental Stewardship`
 
 ### 🌱 Goals 2025
-- 🧪 Build a math-heavy side project involving probability or graph theory
+- 🚀 Launch GameOn and onboard active users
+- ☁️ Earn an AWS certification to strengthen my cloud skills
+- 🤝 Grow a small online community around my projects (Tiktok @Djebug !)
 - ✨ Grab first place at a hackathon
 
 ### 🤝 Let’s Collaborate
