@@ -21,7 +21,7 @@
 `Sustainable Development & Environmental Stewardship`
 
 ### 🌱 Goals 2025
-- 🚀 Launch GameOn and onboard active users
+- 🚀 Launch Ék*** and onboard active users
 - ☁️ Earn an AWS certification to strengthen my cloud skills
 - 🤝 Grow a small online community around my projects (Tiktok @Djebug !)
 - ✨ Grab first place at a hackathon
